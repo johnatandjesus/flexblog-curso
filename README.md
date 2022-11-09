@@ -21,9 +21,9 @@ O projeto **FlexBlog** foi desenvolvido durante o curso de **CSS Flexbox** da **
 
 ## 🖥️ Demonstração
 
-[![FlexBlog](https://i.imgur.com/DIdmfIb.png "Clique para acessar o projeto")](johnatandjesus.github.io/flexblog-curso/ "Clique para acessar o projeto")
+[![FlexBlog](https://i.imgur.com/DIdmfIb.png "Clique para acessar o projeto")](https://johnatandjesus.github.io/flexblog-curso/ "Clique para acessar o projeto")
 
-Você pode acessar o projeto clicando [aqui](johnatandjesus.github.io/flexblog-curso/).
+Você pode acessar o projeto clicando [aqui](https://johnatandjesus.github.io/flexblog-curso/).
 
 ---
 
